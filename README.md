@@ -1,1 +1,3 @@
-# ListHabit-Technical-support
+本应用，是一款轻量级，极简打卡，记录生活，培养好习惯的软件。
+
+若对使用产生任何疑问，请联系shawn736_ios@163.com
